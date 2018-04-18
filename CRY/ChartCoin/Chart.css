@@ -1,0 +1,66 @@
+.dropdown button{
+    background-color: #002752;
+    margin-top: 15px;
+    padding: 0px;
+    border: none;
+}
+
+#idLinkWeb{
+    color: white;
+}
+
+
+#idMenu{
+    background-color: #002752;
+    /*color: white;*/
+}
+
+#idMenu a{
+    color: white;
+}
+
+.container-fluid{
+    background-color: #002752;
+}
+
+#body-page{
+    width: 100%;
+    height: 1000px;
+    position: relative;
+    background-color: #0c5460;
+}
+
+
+#right-page{
+    width: 78%;
+    height: 100%;
+    background-color: #002752;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 280px ;
+}
+
+#logo-field{
+    position: relative;
+    margin: 5px;
+    width:96%;
+    height: 200px;
+    background-color: #1e7e34;
+}
+
+
+
+#chart-field{
+    position: relative;
+    width: 100%;
+    height: 500px;
+    background-color: white;
+}
+
+#coin-field{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    background-color: #000040;
+}
+
